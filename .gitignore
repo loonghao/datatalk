@@ -3,6 +3,7 @@
 
 # PyCharm project files
 .idea/
+localtest.py
 
 # Vim / Notepad++ temp files
 *~
@@ -20,3 +21,6 @@ target/*
 /build/
 /coverage.xml
 /.zip/
+/datatalk/analytics/
+/datatalk/exporters/
+/datatalk/providers/
