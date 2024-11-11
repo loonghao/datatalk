@@ -1,3 +1,9 @@
+## v0.2.3 (2024-11-11)
+
+### Refactor
+
+- update GitHub workflows with permissions and actions settings
+
 ## v0.2.2 (2024-11-11)
 
 ### Refactor
