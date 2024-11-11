@@ -1,3 +1,9 @@
+## v0.2.2 (2024-11-11)
+
+### Refactor
+
+- update Python publishing workflow
+
 ## v0.2.1 (2024-11-11)
 
 ### Refactor
